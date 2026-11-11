@@ -23,8 +23,8 @@
 
 ## 填入 App Store Connect
 
-- 技术支持网址：`https://<你的用户名>.github.io/proctor-pages/support.html`
-- 隐私政策网址：`https://<你的用户名>.github.io/proctor-pages/privacy.html`
+- 技术支持网址：`https://thoexxr.github.io/proctor-pages/support.html`
+- 隐私政策网址：`https://thoexxr.github.io/proctor-pages/privacy.html`
 
 > 提示：浏览器先打开上述链接确认能正常显示后再填写。页面顶部可点击切换五种语言，均为同一网址，无需为每种语言单独建链接。
 
